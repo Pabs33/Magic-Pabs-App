@@ -1,0 +1,130 @@
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Magic Pabs App.exe.config
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Magic Pabs App.exe
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Magic Pabs App.pdb
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Syncfusion.Licensing.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Syncfusion.SfNavigationDrawer.WPF.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Syncfusion.SfNavigationDrawer.WPF.xml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\MainWindow.g.cs
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\App.g.cs
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Magic Pabs App_MarkupCompile.cache
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Magic Pabs App_MarkupCompile.lref
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\MainWindow.baml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Magic Pabs App.g.resources
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Magic_Pabs_App.Properties.Resources.resources
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Magic Pabs App.csproj.GenerateResource.cache
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Magic Pabs App.csproj.CoreCompileInputs.cache
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Magic Pabs App.csproj.CopyComplete
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Magic Pabs App.exe
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Magic Pabs App.pdb
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\Clientes.g.cs
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\Espectaculos.g.cs
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\Eventos.g.cs
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\Index.g.cs
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\Clientes.baml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\Espectaculos.baml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\Eventos.baml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\Index.baml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Microsoft.Toolkit.Mvvm.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Newtonsoft.Json.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\RestSharp.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Syncfusion.Data.WPF.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Syncfusion.SfGrid.WPF.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\System.Buffers.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\System.ComponentModel.Annotations.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\System.Memory.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\System.Numerics.Vectors.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Microsoft.Toolkit.Mvvm.pdb
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Microsoft.Toolkit.Mvvm.xml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Newtonsoft.Json.xml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\RestSharp.xml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Syncfusion.Data.WPF.xml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Syncfusion.SfGrid.WPF.xml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\System.Buffers.xml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\System.Memory.xml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\System.Numerics.Vectors.xml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Syncfusion.SfTextInputLayout.WPF.dll
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\bin\Debug\Syncfusion.SfTextInputLayout.WPF.xml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\NuevoCliente.g.cs
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\NuevoCliente.baml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\NuevoEspectaculo.g.cs
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\NuevoEspectaculo.baml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\NuevoEvento.g.cs
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\NuevoEvento.baml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\VerCliente.g.cs
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\VerCliente.baml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\VerEspectaculo.g.cs
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Vistas\VerEspectaculo.baml
+D:\pablo\Documents\Estudios\DAM\2º DAM\TFG\Magic Pabs App\obj\Debug\Magic Pabs App.csproj.AssemblyReference.cache
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Magic Pabs App.exe.config
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Magic Pabs App.exe
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Magic Pabs App.pdb
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Microsoft.Toolkit.Mvvm.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Newtonsoft.Json.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\RestSharp.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Syncfusion.Data.WPF.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Syncfusion.Licensing.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Syncfusion.SfGrid.WPF.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Syncfusion.SfNavigationDrawer.WPF.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Syncfusion.SfTextInputLayout.WPF.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\System.Buffers.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\System.ComponentModel.Annotations.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\System.Memory.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\System.Numerics.Vectors.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Microsoft.Toolkit.Mvvm.pdb
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Microsoft.Toolkit.Mvvm.xml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Newtonsoft.Json.xml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\RestSharp.xml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Syncfusion.Data.WPF.xml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Syncfusion.SfGrid.WPF.xml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Syncfusion.SfNavigationDrawer.WPF.xml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Syncfusion.SfTextInputLayout.WPF.xml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\System.Buffers.xml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\System.Memory.xml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\System.Numerics.Vectors.xml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Magic Pabs App.csproj.AssemblyReference.cache
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\MainWindow.g.cs
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\Clientes.g.cs
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\Espectaculos.g.cs
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\Eventos.g.cs
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\Index.g.cs
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\NuevoCliente.g.cs
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\NuevoEspectaculo.g.cs
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\NuevoEvento.g.cs
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\VerCliente.g.cs
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\VerEspectaculo.g.cs
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\App.g.cs
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Magic Pabs App_MarkupCompile.cache
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Magic Pabs App_MarkupCompile.lref
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\MainWindow.baml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\Clientes.baml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\Espectaculos.baml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\Eventos.baml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\Index.baml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\NuevoCliente.baml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\NuevoEspectaculo.baml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\NuevoEvento.baml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\VerCliente.baml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Vistas\VerEspectaculo.baml
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Magic Pabs App.g.resources
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Magic_Pabs_App.Properties.Resources.resources
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Magic Pabs App.csproj.GenerateResource.cache
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Magic Pabs App.csproj.CoreCompileInputs.cache
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Magic Pabs App.csproj.CopyComplete
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Magic Pabs App.exe
+D:\pablo\Documents\Estudios\programacion\Magic Pabs App\Magic Pabs App\obj\Debug\Magic Pabs App.pdb

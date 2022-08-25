@@ -1,0 +1,52 @@
+﻿<Window x:Class="Magic_Pabs_App.Vistas.NuevoEvento"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
+        xmlns:local="clr-namespace:Magic_Pabs_App.Vistas"
+        mc:Ignorable="d"
+        Title="NuevoEvento" Height="350" Width="400"
+        ShowInTaskbar="False"
+        ResizeMode="NoResize"
+        Background="#6BD7ED"
+        Icon="/img/negre.ico">
+    <StackPanel Margin="5px">
+        <syncfusion:SfTextInputLayout Hint="Direccion"
+                                      HintFloatMode="Float"
+                                      HelperText="Introduce la direccion del evento">
+            <syncfusion:SfTextInputLayout.LeadingView>
+                <Image Source="/img/hogar.png" />
+            </syncfusion:SfTextInputLayout.LeadingView>
+            <TextBox Text="{Binding Path=EventoSel.direccion}" />
+        </syncfusion:SfTextInputLayout>
+        <syncfusion:SfTextInputLayout Hint="Fecha"
+                                      HintFloatMode="Float"
+                                      HelperText="Introduce la fecha del evento (dd/mm/yyyy)">
+            <syncfusion:SfTextInputLayout.LeadingView>
+                <Image Source="/img/calendar.png" />
+            </syncfusion:SfTextInputLayout.LeadingView>
+            <TextBox Text="{Binding Path=EventoSel.fecha}" />
+        </syncfusion:SfTextInputLayout>
+        <syncfusion:SfTextInputLayout Hint="Tipo de evento"
+                                      HintFloatMode="Float"
+                                      HelperText="Introduce el tipo de evento(bodas, bautizos, comuniones e incluso funerales)">
+            <syncfusion:SfTextInputLayout.LeadingView>
+                <Image Source="/img/confetti.png" />
+            </syncfusion:SfTextInputLayout.LeadingView>
+            <TextBox Text="{Binding Path=EventoSel.tipoEvento}" />
+        </syncfusion:SfTextInputLayout>
+
+        <TextBlock>Cliente:</TextBlock>
+        <ComboBox ItemsSource="{Binding Path=ListaClientes}"
+                  SelectedItem="{Binding Path=EventoSel.idClienteEventos}"></ComboBox>
+
+        <TextBlock>Espectaculo:</TextBlock>
+        <ComboBox ItemsSource="{Binding Path=ListaEspectaculos}"
+                  SelectedItem="{Binding Path=EventoSel.idEspectaculoEventos}"></ComboBox>
+        <Button Click="Button_Click"
+                Background="#4994A3"
+                Width="100px">Guardar Evento</Button>
+
+    </StackPanel>
+</Window>

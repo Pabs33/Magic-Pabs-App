@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic Pabs App", "Magic Pabs App.csproj", "{C1A8D9B4-7198-43BD-821A-7157DCA601F0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador Magic Pabs App", "..\Instalador Magic Pabs App\Instalador Magic Pabs App.vdproj", "{739DAC10-2FDF-4469-A3E6-386A23732D41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1A8D9B4-7198-43BD-821A-7157DCA601F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A8D9B4-7198-43BD-821A-7157DCA601F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A8D9B4-7198-43BD-821A-7157DCA601F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A8D9B4-7198-43BD-821A-7157DCA601F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{739DAC10-2FDF-4469-A3E6-386A23732D41}.Debug|Any CPU.ActiveCfg = Debug
+		{739DAC10-2FDF-4469-A3E6-386A23732D41}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2AC95E9-84A9-4A71-83C7-E29C2E0D7E23}
+	EndGlobalSection
+EndGlobal

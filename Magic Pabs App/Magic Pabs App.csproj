@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C1A8D9B4-7198-43BD-821A-7157DCA601F0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Magic_Pabs_App</RootNamespace>
+    <AssemblyName>Magic Pabs App</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Bcl.AsyncInterfaces.5.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Toolkit.Mvvm, Version=7.1.0.0, Culture=neutral, PublicKeyToken=4aff67a105548ee2, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.Toolkit.Mvvm.7.1.2\lib\netstandard2.0\Microsoft.Toolkit.Mvvm.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp, Version=106.15.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>packages\RestSharp.106.15.0\lib\net452\RestSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Data.WPF, Version=20.1460.0.51, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.Data.WPF.20.1.0.51\lib\net46\Syncfusion.Data.WPF.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Licensing, Version=20.1460.0.52, Culture=neutral, PublicKeyToken=632609b4d040f6b4, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.Licensing.20.1.0.52\lib\net46\Syncfusion.Licensing.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.SfGrid.WPF, Version=20.1460.0.51, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.SfGrid.WPF.20.1.0.51\lib\net46\Syncfusion.SfGrid.WPF.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.SfNavigationDrawer.WPF, Version=20.1460.0.48, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.SfNavigationDrawer.WPF.20.1.0.48\lib\net46\Syncfusion.SfNavigationDrawer.WPF.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.SfTextInputLayout.WPF, Version=20.1460.0.52, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.SfTextInputLayout.WPF.20.1.0.52\lib\net46\Syncfusion.SfTextInputLayout.WPF.dll</HintPath>
+    </Reference>
+    <Reference Include="Syncfusion.Shared.WPF, Version=20.1460.0.52, Culture=neutral, PublicKeyToken=3d67ed1f87d44c89, processorArchitecture=MSIL">
+      <HintPath>packages\Syncfusion.Shared.WPF.20.1.0.52\lib\net46\Syncfusion.Shared.WPF.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Annotations, Version=4.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.ComponentModel.Annotations.5.0.0\lib\net461\System.ComponentModel.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=4.0.4.1, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>packages\System.Runtime.CompilerServices.Unsafe.4.5.3\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Clases\Cliente.cs" />
+    <Compile Include="Clases\Espectaculo.cs" />
+    <Compile Include="Clases\Evento.cs" />
+    <Compile Include="Servicios\ServicioAPI.cs" />
+    <Compile Include="Servicios\ServicioMessageBox.cs" />
+    <Compile Include="Servicios\ServicioNavegacion.cs" />
+    <Compile Include="Vistas-Modelo\ClientesVM.cs" />
+    <Compile Include="Vistas-Modelo\EspectaculosVM.cs" />
+    <Compile Include="Vistas-Modelo\EventosVM.cs" />
+    <Compile Include="Vistas-Modelo\NuevoClienteVM.cs" />
+    <Compile Include="Vistas-Modelo\NuevoEspectaculoVM.cs" />
+    <Compile Include="Vistas-Modelo\NuevoEventoVM.cs" />
+    <Compile Include="Vistas-Modelo\VerClienteVM.cs" />
+    <Compile Include="Vistas-Modelo\VerEspectaculoVM.cs" />
+    <Compile Include="Vistas\Clientes.xaml.cs">
+      <DependentUpon>Clientes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Espectaculos.xaml.cs">
+      <DependentUpon>Espectaculos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Eventos.xaml.cs">
+      <DependentUpon>Eventos.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\Index.xaml.cs">
+      <DependentUpon>Index.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\NuevoCliente.xaml.cs">
+      <DependentUpon>NuevoCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\NuevoEspectaculo.xaml.cs">
+      <DependentUpon>NuevoEspectaculo.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\NuevoEvento.xaml.cs">
+      <DependentUpon>NuevoEvento.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\VerCliente.xaml.cs">
+      <DependentUpon>VerCliente.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Vistas\VerEspectaculo.xaml.cs">
+      <DependentUpon>VerEspectaculo.xaml</DependentUpon>
+    </Compile>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Vistas\Clientes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\Espectaculos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\Eventos.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\Index.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\NuevoCliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\NuevoEspectaculo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\NuevoEvento.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\VerCliente.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Vistas\VerEspectaculo.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\usuario.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\cartas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\edit.png" />
+    <Resource Include="img\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\negre.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\negre.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\gorro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\hogar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\confetti.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\pencil.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\clock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\edit-info.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\email.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="img\phone-call.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

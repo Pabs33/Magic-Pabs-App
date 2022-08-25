@@ -1,0 +1,44 @@
+﻿<Window x:Class="Magic_Pabs_App.Vistas.NuevoCliente"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
+        xmlns:local="clr-namespace:Magic_Pabs_App.Vistas"
+        mc:Ignorable="d"
+        Title="NuevoCliente" Height="250" Width="400"
+        ShowInTaskbar="False"
+        ResizeMode="NoResize"
+        Background="#6BD7ED"
+        Icon="/img/negre.ico">
+    <StackPanel Margin="5px">
+        <syncfusion:SfTextInputLayout Hint="Nombre"
+                                      HintFloatMode="Float"
+                                      HelperText="Introduce el nombre">
+            <syncfusion:SfTextInputLayout.LeadingView>
+                <Image Source="/img/usuario.png" />
+            </syncfusion:SfTextInputLayout.LeadingView>
+            <TextBox Text="{Binding Path=Cliente.nombre}" />
+        </syncfusion:SfTextInputLayout>
+        <syncfusion:SfTextInputLayout Hint="Email"
+                                      HintFloatMode="Float"
+                                      HelperText="Introduce el email">
+            <syncfusion:SfTextInputLayout.LeadingView>
+                <Image Source="/img/email.png" />
+            </syncfusion:SfTextInputLayout.LeadingView>
+            <TextBox Text="{Binding Path=Cliente.email}" />
+        </syncfusion:SfTextInputLayout>
+        <syncfusion:SfTextInputLayout Hint="Telefono"
+                                      HintFloatMode="Float"
+                                      HelperText="Introduce el numero de telefono">
+            <syncfusion:SfTextInputLayout.LeadingView>
+                <Image Source="/img/phone-call.png" />
+            </syncfusion:SfTextInputLayout.LeadingView>
+            <TextBox Text="{Binding Path=Cliente.telefono}" />
+        </syncfusion:SfTextInputLayout>
+        <Button Click="Button_Click"
+                Background="#4994A3"
+                Width="100px">Guardar cliente</Button>
+
+    </StackPanel>
+</Window>

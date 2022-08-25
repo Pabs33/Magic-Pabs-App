@@ -1,0 +1,46 @@
+﻿<Window x:Class="Magic_Pabs_App.Vistas.NuevoEspectaculo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:syncfusion="http://schemas.syncfusion.com/wpf"
+        xmlns:local="clr-namespace:Magic_Pabs_App.Vistas"
+        mc:Ignorable="d"
+        Title="NuevoEspectaculo" Height="350" Width="500"
+        ShowInTaskbar="False"
+        ResizeMode="NoResize"
+        Background="#6BD7ED"
+        Icon="/img/negre.ico">
+    <StackPanel Margin="5px">
+        <syncfusion:SfTextInputLayout Hint="Titulo"
+                                      HintFloatMode="Float"
+                                      HelperText="Introduce el titulo">
+            <syncfusion:SfTextInputLayout.LeadingView>
+                <Image Source="/img/pencil.png" />
+            </syncfusion:SfTextInputLayout.LeadingView>
+            <TextBox Text="{Binding Path=Espectaculo.titulo}" />
+        </syncfusion:SfTextInputLayout>
+        <syncfusion:SfTextInputLayout Hint="Duracion"
+                                      HintFloatMode="Float"
+                                      HelperText="Introduce la duración del espectaculo en minutos">
+            <syncfusion:SfTextInputLayout.LeadingView>
+                <Image Source="/img/clock.png" />
+            </syncfusion:SfTextInputLayout.LeadingView>
+            <TextBox Text="{Binding Path=Espectaculo.duracion}" />
+        </syncfusion:SfTextInputLayout>
+        <syncfusion:SfTextInputLayout Hint="Descripcion"
+                                      HintFloatMode="Float"
+                                      HelperText="Describe como será el espectaculo">
+            <syncfusion:SfTextInputLayout.LeadingView>
+                <Image Source="/img/edit-info.png" />
+            </syncfusion:SfTextInputLayout.LeadingView>
+            <TextBox Text="{Binding Path=Espectaculo.descripcion}" 
+                     Height="100"
+                     TextWrapping="Wrap" />
+        </syncfusion:SfTextInputLayout>
+        <Button Click="Button_Click"
+                Background="#4994A3"
+                Width="100px">Guardar espectaculo</Button>
+
+    </StackPanel>
+</Window>

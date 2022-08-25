@@ -1,0 +1,28 @@
+﻿<Window x:Class="Magic_Pabs_App.Vistas.VerEspectaculo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Magic_Pabs_App.Vistas"
+        mc:Ignorable="d"
+        Title="VerEspectaculo" Height="275" Width="255"
+        ResizeMode="NoResize"
+        Icon="/img/negre.ico">
+    <StackPanel Background="#6BD7ED">
+        <TextBlock FontSize="20"
+                   FontWeight="Bold">Titulo:</TextBlock>
+        <TextBlock Text="{Binding Path=Espectaculo.titulo}"
+                   FontSize="20"></TextBlock>
+        <TextBlock FontSize="20"
+                   FontWeight="Bold">Descripción:</TextBlock>
+        <TextBlock Text="{Binding Path=Espectaculo.descripcion}"
+                   FontSize="20"
+                   TextWrapping="WrapWithOverflow"></TextBlock>
+        <TextBlock FontSize="20"
+                   FontWeight="Bold">Duración en minutos:</TextBlock>
+        <TextBlock Text="{Binding Path=Espectaculo.duracion}"
+                   FontSize="20"></TextBlock>
+        <Button Width="50px"
+                Click="Button_Click">Cerrar</Button>
+    </StackPanel>
+</Window>
