@@ -1,6 +1,7 @@
 # Magic-Pabs-App
  Magic Pabs App es una aplicación para gestionar espectaculos de magia de la forma mas comoda posible
  
+# Próximamente...
  La aplicación cuenta con una pequeña app para dispositivos android que colgare aquí cuando me sea posible. La app esta terminada pero falta configurarla para que pueda estar disponible para todo el mundo aquí en GitHub.
  ## ¿Quieres ayudar a que Magic Pabs App crezca?
  La idea es que esta aplicación crezca, empezando por centralizarla en una app web y gestionarla con usuarios.
